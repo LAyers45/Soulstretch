@@ -1,2 +1,0 @@
-DROP DATABASE IF EXISTS userInfo_db;
-CREATE DATABASE userInfo_db;
